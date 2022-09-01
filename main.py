@@ -54,17 +54,17 @@ def start():
     # Set test to normal for user to type words
     text["state"] = "normal"
 
-    count_down(60)
+    count_down(time_left)
 
 
-def count_down(time_left):
+def count_down(time):
     # Updating time label with the time left
-    time_label.config(text=f"Time  00:{time_left:02d}")
+    time_label.config(text=f"Time  00:{time:02d}")
     root.update()
 
     # If time is greater than 0 call the countdown function and reduce 1 from time_left
-    if time_left > 0:
-        root.after(1000, count_down, time_left - 1)
+    if time > 0:
+        root.after(1000, count_down, time - 1)
     #  If time is equal to 0 disable text to stop user from entering words
     else:
         text["state"] = "disabled"
