@@ -93,5 +93,4 @@ def get_wpm():
     time_label.config(text=f"{correct_chars} CPM ({correct_words} WPM)")
 
 
-if __name__ == "__main__":
-    main()
+main()
