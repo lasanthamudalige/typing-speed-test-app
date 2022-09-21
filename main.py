@@ -35,7 +35,6 @@ def main():
     # input text
     global text
     text = Text(root, height=10, width=100)
-    text.focus()
     text.pack(pady=10)
 
     # disabling text until user press start
@@ -54,6 +53,7 @@ def start():
 
     # Set test to normal for user to type words
     text["state"] = "normal"
+    text.focus()
 
     count_down(time_left)
 
