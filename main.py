@@ -53,6 +53,8 @@ def start():
 
     # Set test to normal for user to type words
     text["state"] = "normal"
+
+    # focus on the text box when user press start button
     text.focus()
 
     count_down(time_left)
