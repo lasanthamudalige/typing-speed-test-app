@@ -1,8 +1,11 @@
-# Typing speed test app
+# TypeTest
 
-<ul>
-  <li>After pressing start button a count down start from 1 min and after it reaches 0 user can see how fast he/she typed.</li>
-</ul>
+Type speed testing app.
 
-<h2>Preview</h2>
+## Description
+
+The input field will not be available to type on until user press start button. When user press the start button user can type the paragraph shown in the top and when the timer reach 0 the program stops and show how many charachter and words user typed in that miniute.
+
+### Preview
+
 <img src="https://user-images.githubusercontent.com/91461938/190953736-8cb79c02-f7b2-4751-9b05-bb2a525af0de.png">
