@@ -18,7 +18,7 @@ root = Tk()
 
 
 def main():
-    root.title("Typing speed test")
+    root.title("TypeTest")
     root.geometry("1000x600")
     root.configure(bg="grey")
 
