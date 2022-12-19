@@ -9,7 +9,7 @@ Type speed testing program using [Python](https://www.python.org/).
 * [Usage](#usage)
 
 ## General info
-Using start button user can start to type top paragraph and after the countdown it will show how many words and characters user typed. 
+User can test how many words and character he/she can type in a minute.
 
 ## Technologies
 Project is created with:
