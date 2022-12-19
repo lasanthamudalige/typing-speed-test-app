@@ -1,6 +1,6 @@
 # TypeTest
 
-Type speed testing app using [Python](https://www.python.org/).
+Type speed testing program using [Python](https://www.python.org/).
 
 ## Table of contents
 * [General info](#general-info)
