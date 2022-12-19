@@ -9,7 +9,7 @@ Type speed testing program using [Python](https://www.python.org/).
 * [Usage](#usage)
 
 ## General info
-User can test how many words and character he/she can type in a minute.
+Using this program user can test how many words and character he/she can type in a minute.
 
 ## Technologies
 Project is created with:
