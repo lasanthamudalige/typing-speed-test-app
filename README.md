@@ -1,11 +1,49 @@
 # TypeTest
 
-Type speed testing app.
+Type speed testing app using [Python](https://www.python.org/).
 
-## Description:
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Usage](#usage)
 
-The input field will not be available to type on until user press start button. When user press the start button user can type the paragraph shown in the top and when the timer reach 0 the program stops and show how many charachter and words user typed in that miniute.
+## General info
+Using start button user can start to type top paragraph and after a miniute i will show how many words and charachters user typed. 
 
-### Preview:
+## Technologies
+Project is created with:
+* Python version: 3.10
+	
+## Setup
 
-<img src="https://user-images.githubusercontent.com/91461938/190953736-8cb79c02-f7b2-4751-9b05-bb2a525af0de.png">
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer.\
+From your command line run:
+
+```
+# Clone this repository
+$ git clone https://github.com/lasanthamudalige/typing-speed-test-app.git
+
+# Go into the repository
+$ cd typing-speed-test-app/
+
+# To install all dependencies
+$ pip install -r requirements.txt
+```
+
+## Usage
+
+To run this project in Linux/Unix:
+
+```
+$ python3 main.py repo_name
+```
+
+To run this project in Windows:
+
+```
+$ python main.py repo_name
+```
+
+## License 
+This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/automate-github-repo-creation/blob/main/LICENSE).
