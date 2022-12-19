@@ -49,4 +49,4 @@ $ python main.py
 ```
 
 ## License 
-This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/automate-github-repo-creation/blob/main/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/typing-speed-test-app/blob/main/license).
