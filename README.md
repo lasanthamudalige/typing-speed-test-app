@@ -9,7 +9,7 @@ Type speed testing app using [Python](https://www.python.org/).
 * [Usage](#usage)
 
 ## General info
-Using start button user can start to type top paragraph and after a miniute i will show how many words and charachters user typed. 
+Using start button user can start to type top paragraph and after the countdown it will show how many words and characters user typed. 
 
 ## Technologies
 Project is created with:
@@ -26,9 +26,12 @@ $ git clone https://github.com/lasanthamudalige/typing-speed-test-app.git
 
 # Go into the repository
 $ cd typing-speed-test-app/
+```
 
-# To install all dependencies
-$ pip install -r requirements.txt
+If u are on Linux please install python3-tk using:
+
+```
+$ sudo apt install python3-tk
 ```
 
 ## Usage
@@ -36,13 +39,13 @@ $ pip install -r requirements.txt
 To run this project in Linux/Unix:
 
 ```
-$ python3 main.py repo_name
+$ python3 main.py
 ```
 
 To run this project in Windows:
 
 ```
-$ python main.py repo_name
+$ python main.py
 ```
 
 ## License 
