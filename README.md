@@ -13,7 +13,7 @@ Using start button user can start to type top paragraph and after the countdown 
 
 ## Technologies
 Project is created with:
-* Python version: 3.10
+* Python version: 3.10.6
 	
 ## Setup
 
